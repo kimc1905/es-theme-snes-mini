@@ -4,7 +4,7 @@
 
 	<view name="basic, detailed, video, system">
 
-		<<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
+		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
 			<fontPath>./../art/soya_ttul9.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<fontSize>0.0252592592592593</fontSize>
