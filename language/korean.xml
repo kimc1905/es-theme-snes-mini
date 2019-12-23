@@ -23,8 +23,8 @@
 		
 		<textlist name="gamelist">
 			<fontPath>./../art/soya_godun10.ttf</fontPath>
-			<fontSize>0.0232592592592593</fontSize>
-			<lineSpacing>1.655555</lineSpacing>
+			<fontSize>0.03722592592592593</fontSize>
+			<lineSpacing>2.20655555</lineSpacing>
 		</textlist>	
 	</view>
 		
