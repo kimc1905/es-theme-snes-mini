@@ -92,19 +92,8 @@
 		
 		<text name="md_developer, md_publisher, md_genre, md_playcount">
 			<forceUppercase>1</forceUppercase>
-			<fontSize>0.0592592592592593</fontSize>
 			<color>ffffff</color>
 		</text>	
-		
-		<text name="md_playcount">
-			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
-		</text>
-		
-				
-		<text name="md_developer, md_publisher, md_genre">
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
-			<alignment>center</alignment>
-		</text>
 		
 		<text name="md_description">
 			<forceUppercase>1</forceUppercase>
@@ -133,7 +122,6 @@
 		<textlist name="gamelist">
 			<forceUppercase>1</forceUppercase>
 			<scrollSound>./sounds/se_sys_cursor.wav</scrollSound>
-			<fontSize>0.0592592592592593</fontSize>
 		</textlist>		
 			
 		<sound name="launch">

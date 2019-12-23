@@ -3,9 +3,8 @@
     <formatVersion>3</formatVersion>
 
 	<view name="basic, detailed, video, system">
-
 		<text name="md_developer, md_publisher, md_genre">
-			<fontPath>./art/soya_ttul9.ttf</fontPath>
+			<fontPath>./art/TinyUnicode.ttf</fontPath>
 			<alignment>center</alignment>
 		</text>
 
@@ -13,19 +12,14 @@
 			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
 		</text>
 
-		<text name="md_developer, md_publisher, md_genre">
-			<fontSize>0.0252592592592593</fontSize>
-		</text>	
-
-		<text name="md_playcount">
+		<text name="md_developer, md_publisher, md_genre, md_playcount">
 			<fontSize>0.0592592592592593</fontSize>
 		</text>	
 		
 		<textlist name="gamelist">
-			<fontPath>./../art/soya_nanoom9.ttf</fontPath>
-			<fontSize>0.0232592592592593</fontSize>
-			<lineSpacing>1.655555</lineSpacing>
+			<fontSize>0.0592592592592593</fontSize>
 		</textlist>	
+
 	</view>
 		
 	
