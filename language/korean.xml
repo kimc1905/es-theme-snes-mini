@@ -1,0 +1,19 @@
+<theme>
+
+    <formatVersion>3</formatVersion>
+
+	<view name="basic, detailed, video, system">
+
+		<text name="md_developer, md_publisher, md_genre">
+			<fontPath>./../art/soya_ttul9.ttf</fontPath>
+			<size>0.25 0.0333333333333333</size>
+		</text>		
+		
+		<textlist name="gamelist">
+			<fontPath>./../art/soya_nanoom9.ttf</fontPath>
+		</textlist>	
+
+	</view>
+		
+	
+</theme>

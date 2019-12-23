@@ -8,7 +8,7 @@ author:			ruckage
     <formatVersion>3</formatVersion>
 	
 <!-- Choose your layout ()see ## LAYOUT GUIDE ##.png) -->
-	<include>./layouts/a.xml</include>
+	<include>./layouts/no_meta_f.xml</include>
 	
 <!-- Choose how number of players is displayed (icon or text) -->	
 	<include>./players/icon.xml</include>	
@@ -30,5 +30,8 @@ author:			ruckage
 
 <!-- Choose text alignment for the game list (left-align, center-align, right-align)-->	
 	<include>./list-font/left-align.xml</include>			
+
+<!-- Choose font for language (korean) -->	
+	<include>./language/korean.xml</include>	
 
 </theme>
