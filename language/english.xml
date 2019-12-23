@@ -4,12 +4,12 @@
 
 	<view name="basic, detailed, video, system">
 		<text name="md_developer, md_publisher, md_genre">
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./../art/TinyUnicode.ttf</fontPath>
 			<alignment>center</alignment>
 		</text>
 
 		<text name="md_playcount">
-			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
+			<fontPath>./../art/NESCyrillic_gamelist.ttf</fontPath>
 		</text>
 
 		<text name="md_developer, md_publisher, md_genre, md_playcount">
